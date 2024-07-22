@@ -21,7 +21,7 @@ const ProjectCards = ({
   <HoverBorderGradient
     as={"div"}
     containerClassName="rounded-3xl"
-    className="bg-slate-900 border border-slate-800 backdrop-blur-xl p-4 overflow-hidden flex flex-col w-[360px] h-[480px] max-w-sm"
+    className="bg-slate-900 border border-slate-800 backdrop-blur-xl p-4 overflow-hidden flex flex-col w-full md:w-[360px] md:h-[480px] max-w-sm"
     style={{
       background: "rgb(4,7,29)",
       backgroundColor:

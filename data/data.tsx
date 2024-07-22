@@ -2,7 +2,7 @@ import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 export const navItem = [
   { name: "Home", link: "#home" },
-  { name: "About Me", link: "#about" },
+  { name: "About", link: "#about" },
   { name: "Experience", link: "#experience" },
   { name: "Projects", link: "#project" },
   { name: "Contact", link: "#contact" },
