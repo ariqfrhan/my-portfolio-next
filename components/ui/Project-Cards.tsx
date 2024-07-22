@@ -39,7 +39,7 @@ const ProjectCards = ({
       <h5 className="block mb-2 font-sans text-lg text-white antialiased font-semibold leading-snug tracking-normal text-blue-gray-900">
         {title}
       </h5>
-      <p className="block font-sans text-sm antialiased text-justify text-slate-300 font-light leading-relaxed text-inherit">
+      <p className="block font-sans text-sm w-full antialiased text-justify text-slate-300 font-light leading-relaxed text-inherit">
         {desc}
       </p>
       <div className="flex flex-row pt-2 items-center gap-1">
