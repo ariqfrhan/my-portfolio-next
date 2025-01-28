@@ -72,6 +72,18 @@ export const techStack = [
 export const experience = [
   {
     id: 1,
+    title: "Automation Project Intern",
+    company: "Merck Group",
+    timeline: "Aug 2024 - Present",
+    image: "/merck.jpg",
+    description: [
+      "Planned, documented, and developed Robotic Process Automation (RPA) systems across several business processes within the distribution department, achieving an 88% improvement in time efficiency using UiPath.",
+      "Enhanced RPA potential by integrating AI capabilities, increasing automation accuracy by over 95% and reducing manual intervention, significantly boosting process reliability and scalability.",
+      "Set up Orchestrator and deployed UiPath Apps, creating interactive user interfaces and improving automation management and performance tracking by 80%.",
+    ],
+  },
+  {
+    id: 2,
     title: "Information Technology & Product Developer Intern",
     company: "PT Astra International - Toyota Sales Operation",
     timeline: "Feb 2024 - Jul 2024",
@@ -83,7 +95,7 @@ export const experience = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     title: "Fullstack Web Developer",
     company: "Eksekutif Mahasiswa Universitas Brawijaya",
     timeline: "Mar 2023 - Feb 2024",
@@ -96,7 +108,7 @@ export const experience = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Fullstack Web Developer",
     company: "Nol Derajat Film",
     timeline: "Feb 2024 - Jan 2024",
@@ -108,7 +120,7 @@ export const experience = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Frontend Web Developer",
     company: "RAJA Brawijaya 2023",
     timeline: "Jul 2023 - Sep 2023",
@@ -119,7 +131,7 @@ export const experience = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     title: "Basic Programming, Laboratory Teaching Assistant",
     company: "FILKOM UB",
     timeline: "Sep 2022 - Dec 2022",
@@ -131,7 +143,7 @@ export const experience = [
     ],
   },
   {
-    id: 6,
+    id: 7,
     title: "Project-Based Intern: Data Scientist Virtual Internship Experience",
     company: "id/x partners",
     timeline: "Aug 2022",
